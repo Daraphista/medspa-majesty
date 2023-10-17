@@ -58,14 +58,14 @@ export default function Home() {
               <div className="w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
                 <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
                   Ready to <span className="text-gradient">Double</span> your{" "}
-                  <span className="text-gradient">MedSpa's</span> Website
+                  <span className="text-gradient">MedSpa&apos;s</span> Website
                   Marketing?
                 </h1>
                 <p className="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">
-                  Web Design, SEO, Conversion Rate Optimization - Let's skip all
+                  Web Design, SEO, Conversion Rate Optimization - Let&apos;s skip all
                   the technical BS.{" "}
                   <b>
-                    We'll double your traffic in{" "}
+                    We&apos;ll double your traffic in{" "}
                     <span className="text-gradient">30 days</span> or get all
                     your money back.
                   </b>
@@ -136,8 +136,8 @@ export default function Home() {
                   Hi! My name is Angelo.
                 </p>
                 <p className="mt-8 text-lg leading-8 text-gray-600">
-                  I've been designing & developing websites for over 2 years.
-                  Over the course of 2 years, I've put in countless hours into
+                  I&apos;ve been designing & developing websites for over 2 years.
+                  Over the course of 2 years, I&apos;ve put in countless hours into
                   learning the ins and outs of web design.
                 </p>
                 <p className="mt-6 text-lg leading-8 text-gray-600">
@@ -149,7 +149,7 @@ export default function Home() {
                   most of them were getting ripped off by their web designers.
                 </p>
                 <p className="mt-6 text-lg leading-8 text-gray-600">
-                  Most Medspa owners don't care about Web Design, Website Speed,
+                  Most Medspa owners don&apos;t care about Web Design, Website Speed,
                   or any technical bs. They just want more customers.
                 </p>
                 <p className="mt-6 text-lg leading-8 text-gray-600">
